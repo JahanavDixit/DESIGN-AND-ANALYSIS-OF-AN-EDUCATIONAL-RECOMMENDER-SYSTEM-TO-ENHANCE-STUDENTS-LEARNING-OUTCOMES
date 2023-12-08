@@ -13,10 +13,10 @@ This GitHub repository hosts the codebase for the "Design and Development of an 
 
 ### Tools Used:
 
--- Python
--- scikit-learn
--- Pandas
--- NumPy
+- Python
+- scikit-learn
+- Pandas
+- NumPy
 
 ## Methodology:
 
@@ -24,3 +24,6 @@ Data Preprocessing: Comprehensive data cleaning and preprocessing to ensure the 
 Model Development: Employed various models, including ANN, and fine-tuned parameters to optimize predictive performance.
 Ensemble Learning: Implemented the `BalancedRandomForestClassifier` to harness the power of ensemble learning for robust performance prediction.
 Class Imbalance Mitigation: Utilized `SMOTE` to address imbalances in the dataset, enhancing the model's ability to generalize across diverse student performance categories.
+
+## Results 
+![image](https://github.com/JahanavDixit/DESIGN-AND-ANALYSIS-OF-AN-EDUCATIONAL-RECOMMENDER-SYSTEM-TO-ENHANCE-STUDENTS-LEARNING-OUTCOMES/assets/77104867/ff3c300b-d9be-438a-aa29-7dd7d1129375)
