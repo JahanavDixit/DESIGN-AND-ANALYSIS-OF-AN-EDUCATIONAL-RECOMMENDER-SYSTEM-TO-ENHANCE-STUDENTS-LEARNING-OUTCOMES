@@ -1,7 +1,7 @@
 # DESIGN AND ANALYSIS OF AN EDUCATIONAL RECOMMENDER  SYSTEM TO ENHANCE STUDENTS LEARNING OUTCOMES
 
 ## Description:
-This GitHub repository hosts the codebase for the "Design and Development of an Effective Technique for Predicting the Performance of Students in the Higher Education System." The project leverages the Oulad dataset and employs an ensemble learning approach, specifically the BalancedRandomForestClassifier, to enhance the accuracy of student performance prediction.
+The "Design and Development of an Effective Technique for Predicting the Performance of Students in the Higher Education System." The project leverages the Oulad dataset and employs an ensemble learning approach, specifically the `BalancedRandomForestClassifier`, to enhance the accuracy of student performance prediction.
 
 ## Key Features:
 
